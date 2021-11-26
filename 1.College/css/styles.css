@@ -69,6 +69,8 @@ body {
   margin: 15px;
   border-collapse: collapse;
   border: 1px solid black;
+  width: 100%;
+  height: 100%;
 }
 
 .timetable th {
@@ -113,7 +115,8 @@ body {
   margin: 15px;
   border-collapse: collapse;
   border: 1px solid black;
-  background-color: #50453f;
+  width: 100%;
+  background-color: #b8490d;
 }
 
 .faculty td {
